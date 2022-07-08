@@ -1,5 +1,5 @@
 # weatherapp
-[your link here](https://jermaine1988.github.io/Weatherapp/)
+[your link here](https://jermaine1988.github.io/Weatherapp)
 
 
 
